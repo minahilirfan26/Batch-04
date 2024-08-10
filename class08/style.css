@@ -1,0 +1,30 @@
+/* .box{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: end;
+ justify-content: center;
+}
+.cards{
+    align-content: center;    
+    background-color: palevioletred;
+    height: 200px;
+    width: 200px;
+
+} */
+
+img{
+    height: 300px;
+    width: 50%;
+}
+
+.one{
+    text-shadow: 17px 9px 7px rgba(0,0,0,0.91);
+}
+@media only screen and ( min-width: 400px){
+    img{
+            height: 100px;
+            width: 20%;
+            border: 3px solid red;
+    }
+}

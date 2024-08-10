@@ -1,0 +1,18 @@
+.heading1{
+    background-color: rgb(216, 112, 147);
+    font-family: monospace;
+    font-weight: bolder;
+    font-style: italic;
+    text-transform: lowercase;
+   text-decoration: underline;
+    font-size: 15px;
+}
+.heading2{
+    background-color: rgba(216, 112, 147, 0.9);
+}
+.heading3{
+    background-color: rgba(216, 112, 147, 0.8);
+}
+.heading4{
+    background-color: rgba(216, 112, 147, 0.7);
+}

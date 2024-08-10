@@ -1,0 +1,42 @@
+/* 
+.box1{
+height: 400px;
+background-color: red;
+}
+.box2{
+    height: 200px;
+    background-color: aqua ;
+}
+.box3{
+    height: 200px;
+    background-color: purple;
+}
+.box4{
+    height: 200px;
+    background-color: rgb(155, 73, 87);
+}
+.box5{
+    height: 200px;
+    background-color: blue;
+} */
+.one{
+    background-color: black;
+    height: 400px;
+}
+.two{
+    background-color: green;
+    height: 400px;
+}
+.three{
+    background-color: red;
+    height: 400px;
+}
+.four{
+    background-color: purple;
+    height: 200px;
+    margin-bottom: 5px;
+}
+.five{
+    background-color: gray;
+    height: 200px;
+}

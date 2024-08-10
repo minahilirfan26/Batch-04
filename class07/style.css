@@ -1,0 +1,34 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main-header{
+    background-image: url('./hCdCWR.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 0;
+    height: 100px;
+    width: 100%;
+    opacity: 0.2;
+    position: absolute;
+}
+.logo>img{
+    height: 35px;
+}
+.text>div{
+    display: inline-block;
+    margin-left: 15px;
+}
+.main{
+    text-align: center;
+    padding-top: 10px;
+}
+h1{
+    font-size: 16px;
+}
+p{
+    font-size: 8px;
+    margin-top: 5px;
+    color: rgb(50, 47, 47);
+}
