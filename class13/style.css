@@ -1,0 +1,28 @@
+.one{
+    height: 200px;
+
+    background-color: rebeccapurple;
+}
+.two{
+    height: 200px;
+    
+    background-color: red;
+}
+.three{
+    height: 200px;
+   
+    background-color: blue;
+}
+.main-btn{
+    background-color: blue !important;
+    color: white !important;
+    font-weight: 700 !important;
+}
+.four{
+    height: 100px;
+    background-color: palevioletred;
+}
+.five{
+    height: 100px;
+    background-color: brown;
+}
